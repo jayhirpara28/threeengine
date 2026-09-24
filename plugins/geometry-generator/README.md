@@ -4,7 +4,7 @@
 
 Plugins and helpers for [threepipe](https://threepipe.org/) to generate text geometries that can be regenerated at runtime.
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/geometry-generator) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/geometry-generator) &mdash;
 [Examples](https://threepipe.org/examples/?q=geometry#geometry-generator-plugin/) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

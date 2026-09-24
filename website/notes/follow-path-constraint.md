@@ -72,7 +72,7 @@ pop.animate({
 })
 ```
 
-See the [full code here](https://github.com/repalash/threepipe/blob/master/examples/follow-path-constraint/script.ts), live example on [threepipe.org/examples](https://threepipe.org/examples/#follow-path-constraint/).
+See the [full code here](https://github.com/jayhirpara28/threeengine/blob/master/examples/follow-path-constraint/script.ts), live example on [threepipe.org/examples](https://threepipe.org/examples/#follow-path-constraint/).
 
 ## Features of Object Constraints
 

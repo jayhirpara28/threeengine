@@ -13,7 +13,7 @@ aside: false
 # SwitchNodeBasePlugin
 
 [Example](https://threepipe.org/examples/#switch-node-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/configurator/SwitchNodeBasePlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/configurator/SwitchNodeBasePlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/SwitchNodeBasePlugin.html)
 
 <iframe src="https://threepipe.org/examples/switch-node-plugin/" style="width:100%;min-height:600px;border:none;" loading="lazy" title="Threepipe Switch Node Plugin Example"></iframe>

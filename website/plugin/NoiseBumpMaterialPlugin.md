@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#noise-bump-material-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/material/NoiseBumpMaterialPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/material/NoiseBumpMaterialPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/NoiseBumpMaterialPlugin.html)
 
 NoiseBumpMaterialPlugin adds a material extension to PhysicalMaterial to add support for sparkle bump / noise bump by creating procedural bump map from noise to simulate sparkle flakes.

@@ -14,7 +14,7 @@ next:
 Exports several plugins to add support for various file types.
 
 [Example](https://threepipe.org/examples/#extra-importer-plugins/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/extra-importers/src/index.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/extra-importers/src/index.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/extra-importers/docs)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugins-extra-importers.svg)](https://www.npmjs.com/package/@threepipe/plugins-extra-importers)

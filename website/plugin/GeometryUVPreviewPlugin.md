@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#geometry-uv-preview/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/ui/GeometryUVPreviewPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/ui/GeometryUVPreviewPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/GeometryUVPreviewPlugin.html)
 
 GeometryUVPreviewPlugin is a useful development and debugging plugin

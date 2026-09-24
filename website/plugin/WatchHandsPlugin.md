@@ -12,7 +12,7 @@ aside: false
 
 # WatchHandsPlugin
 
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/webgi/extras/WatchHandsPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/webgi/extras/WatchHandsPlugin.ts) &mdash;
 [API Reference](https://webgi.dev/docs/classes/WatchHandsPlugin.html)
 
 Watch Hands Plugin automatically finds and animates watch hands (hour, minute, second) in your 3D model to display the current real-time. Perfect for watch visualizations, product configurators, and interactive timekeeping displays.

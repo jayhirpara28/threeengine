@@ -10,7 +10,7 @@ aside: false
 
 # AScreenPassExtensionPlugin
 
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/postprocessing/AScreenPassExtensionPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/postprocessing/AScreenPassExtensionPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/AScreenPassExtensionPlugin.html)
 
 Abstract base plugin for screen-space post-processing effects. Instead of adding a new render pass (like [PipelinePassPlugin](./PipelinePassPlugin)), this injects GLSL code into the existing ScreenPass shader at the `#glMarker` injection point. This is more efficient for simple effects since they share a single draw call.

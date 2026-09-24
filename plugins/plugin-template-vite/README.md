@@ -2,7 +2,7 @@
 
 Template for creating new plugins for [threepipe](https://threepipe.org/) using Vite.
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/plugin-template-vite) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/plugin-template-vite) &mdash;
 [Examples](https://threepipe.org/examples/?q=plugin-template-vite#plugin-template-vite) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

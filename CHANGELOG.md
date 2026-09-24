@@ -339,6 +339,6 @@ All notable changes to this project will be documented in this file.
 
 - Initial Framework Release.
 
-[unreleased]: https://github.com/repalash/threepipe/compare/v0.2.0...HEAD
+[unreleased]: https://github.com/jayhirpara28/threeengine/compare/v0.2.0...HEAD
 [0.2.0]: https://github.com/repalash/releases/tag/v0.2.0
 [0.1.0]: https://github.com/repalash/releases/tag/v0.1.0

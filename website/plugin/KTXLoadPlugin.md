@@ -12,7 +12,7 @@ next:
 # KTXLoadPlugin
 
 [Example](https://threepipe.org/examples/#ktx-load/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/import/KTXLoadPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/import/KTXLoadPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/KTXLoadPlugin.html)
 
 Adds support for loading `.ktx` [Khronos Texture](https://www.khronos.org/opengles/sdk/tools/KTX/file_format_spec/) files.

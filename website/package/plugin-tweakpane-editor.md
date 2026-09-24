@@ -16,7 +16,7 @@ Tweakpane Editor Plugin for ThreePipe
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#tweakpane-editor/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/tweakpane-editor/src/TweakpaneEditorPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/tweakpane-editor/src/TweakpaneEditorPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/tweakpane-editor/docs/classes/TweakpaneEditorPlugin.html)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugin-tweakpane-editor.svg)](https://www.npmjs.com/package/@threepipe/plugin-tweakpane-editor)

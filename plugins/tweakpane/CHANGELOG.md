@@ -14,19 +14,19 @@ All notable changes to this plugin will be documented in this file.
 
 ### Changed
 
-- Update [uiconfig-tweakpane](https://threepipe.org/) in `devDependencies` to [1.0.1](https://github.com/repalash/threepipe/releases/tag/v1.0.1)
+- Update [uiconfig-tweakpane](https://threepipe.org/) in `devDependencies` to [1.0.1](https://github.com/jayhirpara28/threeengine/releases/tag/v1.0.1)
 
 ## [0.10.0] - 2025-10-27
 
 ### Changed
 
-- Update [uiconfig-tweakpane](https://threepipe.org/) in `devDependencies` to [1.0.0](https://github.com/repalash/threepipe/releases/tag/v1.0.0)
+- Update [uiconfig-tweakpane](https://threepipe.org/) in `devDependencies` to [1.0.0](https://github.com/jayhirpara28/threeengine/releases/tag/v1.0.0)
 
 ## [0.9.0] - 2025-10-27
 
 ### Changed
 
-- Update [threepipe](https://threepipe.org/) in `peerDependencies` to [0.4.0](https://github.com/repalash/threepipe/releases/tag/v0.4.0)
+- Update [threepipe](https://threepipe.org/) in `peerDependencies` to [0.4.0](https://github.com/jayhirpara28/threeengine/releases/tag/v0.4.0)
 
 ## [0.8.4] - 2025-09-03
 
@@ -54,7 +54,7 @@ All notable changes to this plugin will be documented in this file.
 
 ### Changed
 
-- Update [threepipe](https://threepipe.org/) `peerDependency` to [0.1.0](https://github.com/repalash/threepipe/releases/tag/v0.1.0)
+- Update [threepipe](https://threepipe.org/) `peerDependency` to [0.1.0](https://github.com/jayhirpara28/threeengine/releases/tag/v0.1.0)
 
-[unreleased]: https://github.com/repalash/threepipe/tree/dev/plugins/tweakpane
-[0.8.1]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-tweakpane-0.8.1
+[unreleased]: https://github.com/jayhirpara28/threeengine/tree/dev/plugins/tweakpane
+[0.8.1]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-tweakpane-0.8.1

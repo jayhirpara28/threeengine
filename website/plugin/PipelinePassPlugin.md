@@ -12,7 +12,7 @@ aside: false
 
 # PipelinePassPlugin
 
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/base/PipelinePassPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/base/PipelinePassPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/PipelinePassPlugin.html)
 
 Abstract base plugin for registering custom render passes in the pipeline. Subclasses implement `_createPass()` to create a pass with ordering constraints (`before`, `after`, `required`). The pass is automatically registered/unregistered with the `RenderManager` on plugin add/remove.

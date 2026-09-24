@@ -13,7 +13,7 @@ aside: false
 # AnimationObjectPlugin
 
 [Example](https://threepipe.org/examples/#animation-object-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/animation/AnimationObjectPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/animation/AnimationObjectPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/AnimationObjectPlugin.html)
 
 <iframe src="https://threepipe.org/examples/animation-object-plugin/" style="width:100%;min-height:600px;border:none;" loading="lazy" title="Threepipe Animation Object Plugin Example"></iframe>

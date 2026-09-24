@@ -2,7 +2,7 @@
 
 Integration and plugin for [threepipe](https://threepipe.org/) using [assimp.js](https://github.com/assimp/assimp).
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/assimpjs) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/assimpjs) &mdash;
 [Examples](https://threepipe.org/examples/?q=assimpjs#assimpjs) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

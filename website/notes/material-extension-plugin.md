@@ -41,7 +41,7 @@ A complete material extension plugin typically includes:
 
 ## Complete Plugin Example: CustomBumpMapPlugin
 
-The [CustomBumpMapPlugin](https://github.com/repalash/threepipe/blob/master/src/plugins/material/CustomBumpMapPlugin.ts) demonstrates all these concepts in a production-ready implementation.
+The [CustomBumpMapPlugin](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/material/CustomBumpMapPlugin.ts) demonstrates all these concepts in a production-ready implementation.
 
 ### 1. Plugin Class Structure
 
@@ -402,14 +402,14 @@ getUiConfig: material => ({
 Study these plugin implementations for different patterns:
 
 **Core Material Extension Plugins:**
-- [**CustomBumpMapPlugin**](https://github.com/repalash/threepipe/blob/master/src/plugins/material/CustomBumpMapPlugin.ts) - Complete implementation with UI, serialization, and glTF
-- [**ClearcoatTintPlugin**](https://github.com/repalash/threepipe/blob/master/src/plugins/material/ClearcoatTintPlugin.ts) - Simple tint effect
-- [**FragmentClippingExtensionPlugin**](https://github.com/repalash/threepipe/blob/master/src/plugins/material/FragmentClippingExtensionPlugin.ts) - Advanced clipping planes
+- [**CustomBumpMapPlugin**](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/material/CustomBumpMapPlugin.ts) - Complete implementation with UI, serialization, and glTF
+- [**ClearcoatTintPlugin**](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/material/ClearcoatTintPlugin.ts) - Simple tint effect
+- [**FragmentClippingExtensionPlugin**](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/material/FragmentClippingExtensionPlugin.ts) - Advanced clipping planes
 
 **Render Pipeline Plugins:**
-- [**SSAOPlugin**](https://github.com/repalash/threepipe/blob/master/src/plugins/pipeline/SSAOPlugin.ts) - Screen-space ambient occlusion
-- [**DepthBufferPlugin**](https://github.com/repalash/threepipe/blob/master/src/plugins/pipeline/DepthBufferPlugin.ts) - Depth buffer access
-- [**GBufferPlugin**](https://github.com/repalash/threepipe/blob/master/src/plugins/pipeline/GBufferPlugin.ts) - G-buffer implementation
+- [**SSAOPlugin**](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/pipeline/SSAOPlugin.ts) - Screen-space ambient occlusion
+- [**DepthBufferPlugin**](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/pipeline/DepthBufferPlugin.ts) - Depth buffer access
+- [**GBufferPlugin**](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/pipeline/GBufferPlugin.ts) - G-buffer implementation
 
 ## Best Practices for Plugin Development
 

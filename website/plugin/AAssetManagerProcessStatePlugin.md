@@ -12,7 +12,7 @@ aside: false
 
 # AAssetManagerProcessStatePlugin
 
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/base/AAssetManagerProcessStatePlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/base/AAssetManagerProcessStatePlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/AAssetManagerProcessStatePlugin.html)
 
 Abstract base plugin for displaying asset loading/processing state. It creates a DOM overlay container, subscribes to the viewer's `AssetManager` process state updates, and calls a subclass-provided `_updateMainDiv` method whenever the state changes. This implements the **Template Method** pattern — the base class handles all wiring while subclasses only define how to render the state.

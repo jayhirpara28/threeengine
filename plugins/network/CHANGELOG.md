@@ -14,8 +14,8 @@ All notable changes to this plugin will be documented in this file.
 
 ### Changed
 
-- Update [threepipe](https://threepipe.org/) `peerDependency` to [0.1.0](https://github.com/repalash/threepipe/releases/tag/v0.1.0)
+- Update [threepipe](https://threepipe.org/) `peerDependency` to [0.1.0](https://github.com/jayhirpara28/threeengine/releases/tag/v0.1.0)
 
-[unreleased]: https://github.com/repalash/threepipe/tree/dev/plugins/network
-[0.1.4]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-network-v0.1.4
-[0.1.5]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-network-0.1.5
+[unreleased]: https://github.com/jayhirpara28/threeengine/tree/dev/plugins/network
+[0.1.4]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-network-v0.1.4
+[0.1.5]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-network-0.1.5

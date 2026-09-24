@@ -13,7 +13,7 @@ next:
 
 [//]: # (todo: image)
 
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/export/FileTransferPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/export/FileTransferPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/FileTransferPlugin.html)
 
 Provides a way to extend the `viewer.export` functionality with custom actions. It also maintains a process state for plugins like `LoadingScreenPlugin`.

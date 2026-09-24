@@ -13,7 +13,7 @@ next:
 
 [Interactive Extrusion Example](https://threepipe.org/examples/#shape-tube-extrude-plugin/) &mdash;
 [Generators Example](https://threepipe.org/examples/#shape-tube-extrude/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/geometry/ShapeTubeExtrudePlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/geometry/ShapeTubeExtrudePlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/ShapeTubeExtrudePlugin.html)
 
 Provides interactive extrusion of flat/planar geometry along a curve path. Select a flat mesh in the scene, click "Extrude Circle Tube", and the plugin auto-detects the planar axis, extracts a 2D shape from the vertices, and extrudes it along a circle curve using the `tubeShape` geometry generator.

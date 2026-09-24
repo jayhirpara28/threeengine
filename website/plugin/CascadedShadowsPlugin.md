@@ -13,7 +13,7 @@ aside: false
 # CascadedShadowsPlugin (CSM)
 
 [Example](https://threepipe.org/examples/#cascaded-shadows-plugin-basic/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/rendering/CascadedShadowsPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/rendering/CascadedShadowsPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/CascadedShadowsPlugin.html) &mdash;
 [Original Implementation](https://github.com/StrandedKitty/three-csm)
 

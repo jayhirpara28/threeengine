@@ -17,7 +17,7 @@ All notable changes to this plugin will be documented in this file.
 ### Changed
 
 - The `height` parameter of `TextGeometryGenerator` has been renamed to `depth`.
-- Update [threepipe](https://threepipe.org/) in `peerDependencies` to [0.4.0](https://github.com/repalash/threepipe/releases/tag/v0.4.0)
+- Update [threepipe](https://threepipe.org/) in `peerDependencies` to [0.4.0](https://github.com/jayhirpara28/threeengine/releases/tag/v0.4.0)
 
 ## [0.6.3] - 2025-10-12
 
@@ -31,11 +31,11 @@ All notable changes to this plugin will be documented in this file.
 
 ### Changed
 
-- Update [threepipe](https://threepipe.org/) `peerDependency` to [0.1.0](https://github.com/repalash/threepipe/releases/tag/v0.1.0)
+- Update [threepipe](https://threepipe.org/) `peerDependency` to [0.1.0](https://github.com/jayhirpara28/threeengine/releases/tag/v0.1.0)
 
-[unreleased]: https://github.com/repalash/threepipe/tree/dev/plugins/geometry-generator
-[0.8.0]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-geometry-generator-0.8.0
-[0.7.3]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-geometry-generator-0.7.3
-[0.6.3]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-geometry-generator-0.6.3
-[0.6.2]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-geometry-generator-0.6.2
-[0.6.1]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-geometry-generator-0.6.1
+[unreleased]: https://github.com/jayhirpara28/threeengine/tree/dev/plugins/geometry-generator
+[0.8.0]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-geometry-generator-0.8.0
+[0.7.3]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-geometry-generator-0.7.3
+[0.6.3]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-geometry-generator-0.6.3
+[0.6.2]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-geometry-generator-0.6.2
+[0.6.1]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-geometry-generator-0.6.1

@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#transform-animation-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/animation/TransformAnimationPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/animation/TransformAnimationPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/TransformAnimationPlugin.html)
 
 TransformAnimationPlugin adds support to save and load transform(position, rotation, scale) states for objects in the scene, which can then be animated to.

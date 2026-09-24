@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#popmotion-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/animation/PopmotionPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/animation/PopmotionPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/PopmotionPlugin.html)
 
 Provides animation/tweening capabilities to the viewer using the [popmotion.io](https://popmotion.io/) library.

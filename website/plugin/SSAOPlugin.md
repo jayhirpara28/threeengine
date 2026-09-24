@@ -13,7 +13,7 @@ aside: false
 # SSAOPlugin
 
 [Example](https://threepipe.org/examples/#ssao-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/pipeline/SSAOPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/pipeline/SSAOPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/SSAOPlugin.html)
 
 <iframe src="https://threepipe.org/examples/ssao-plugin/" style="width:100%;min-height:600px;border:none;" loading="lazy" title="Threepipe SSAO Plugin Example"></iframe>

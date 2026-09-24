@@ -13,10 +13,10 @@ next:
 
 Exports [GaussianSplattingPlugin](https://threepipe.org/plugins/gaussian-splatting/docs/classes/GaussianSplattingPlugin.html) which adds support for loading .blend files.
 
-It uses [`three-gaussian-splat`](https://github.com/repalash/threepipe/blob/master/plugins/gaussian-splatting/src/three-gaussian-splat), a rewrite of [@zappar/three-guassian-splat](https://github.com/zappar-xr/three-gaussian-splat) (and [gsplat.js](https://github.com/huggingface/gsplat.js) and [antimatter15/splat](https://github.com/antimatter15/splat)) for loading splat files and rendering gaussian splats.
+It uses [`three-gaussian-splat`](https://github.com/jayhirpara28/threeengine/blob/master/plugins/gaussian-splatting/src/three-gaussian-splat), a rewrite of [@zappar/three-guassian-splat](https://github.com/zappar-xr/three-gaussian-splat) (and [gsplat.js](https://github.com/huggingface/gsplat.js) and [antimatter15/splat](https://github.com/antimatter15/splat)) for loading splat files and rendering gaussian splats.
 
 [Example](https://threepipe.org/examples/#splat-load/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/gaussian-splatting/src/index.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/gaussian-splatting/src/index.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/gaussian-splatting/docs)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugin-gaussian-splatting.svg)](https://www.npmjs.com/package/@threepipe/plugin-gaussian-splatting)

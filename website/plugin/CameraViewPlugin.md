@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#camera-view-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/animation/CameraViewPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/animation/CameraViewPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/CameraViewPlugin.html)
 
 `CameraViewPlugin` adds support to save and load camera views, which can then be animated to.

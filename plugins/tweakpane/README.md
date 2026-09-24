@@ -2,7 +2,7 @@
 
 Integration and plugin for [threepipe](https://threepipe.org/) to use [Tweakpane](https://tweakpane.github.io/docs/) components with [uiconfig](https://github.com/repalash/uiconfig.js).
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/tweakpane) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/tweakpane) &mdash;
 [Examples](https://threepipe.org/examples/?q=ui#object-uiconfig/) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

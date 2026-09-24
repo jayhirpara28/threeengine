@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#transform-controls-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/interaction/TransformControlsPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/interaction/TransformControlsPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/TransformControlsPlugin.html)
 
 Transform Controls Plugin adds support for moving, rotating and scaling objects in the viewer with interactive widgets.

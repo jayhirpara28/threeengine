@@ -2,7 +2,7 @@
 
 Integration and plugin for [threepipe](https://threepipe.org/) to use create editors using [Tweakpane](https://tweakpane.github.io/docs/).
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/tweakpane-editor) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/tweakpane-editor) &mdash;
 [Examples](https://threepipe.org/examples/?q=editor#tweakpane-editor) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

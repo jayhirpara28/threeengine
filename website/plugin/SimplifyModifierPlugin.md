@@ -12,7 +12,7 @@ next:
 # SimplifyModifierPlugin
 
 [Example](https://threepipe.org/examples/#simplify-modifier-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/extras/SimplifyModifierPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/extras/SimplifyModifierPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/SimplifyModifierPlugin.html)
 
 Boilerplate for implementing a plugin for simplifying geometries.

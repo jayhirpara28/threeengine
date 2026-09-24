@@ -11,7 +11,7 @@ next:
 # MeshOptSimplifyModifierPlugin
 
 [Example](https://threepipe.org/examples/#meshopt-simplify-modifier-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/extras/MeshOptSimplifyModifierPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/extras/MeshOptSimplifyModifierPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/MeshOptSimplifyModifierPlugin.html)
 
 Simplify modifier using [meshoptimizer](https://github.com/zeux/meshoptimizer) library. It Loads the library at runtime from a customisable CDN URL.

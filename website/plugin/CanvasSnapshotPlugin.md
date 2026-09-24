@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#canvas-snapshot-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/export/CanvasSnapshotPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/export/CanvasSnapshotPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/CanvasSnapshotPlugin.html)
 
 Canvas Snapshot Plugin adds support for taking snapshots of the canvas and exporting them as images and data urls. It includes options to take snapshot of a region, mime type, quality render scale, tiled zip export for large resolution, scaling the output image, interfacing with SSAA, Progressive plugins etc. 

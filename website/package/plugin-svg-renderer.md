@@ -15,9 +15,9 @@ aside: false
 Exports [ThreeSVGRendererPlugin](https://threepipe.org/plugins/svg-renderer/docs/classes/ThreeSVGRendererPlugin.html) and [BasicSVGRendererPlugin](https://threepipe.org/plugins/svg-renderer/docs/classes/BasicSVGRendererPlugin.html) which provide support for rendering the 3d scene as [SVG(Scalable Vector Graphics)](https://developer.mozilla.org/en-US/docs/Web/SVG). The generated SVG is compatible with browser rendering and other software like figma, illustrator etc.
 
 [Example](https://threepipe.org/examples/#three-svg-renderer-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/svg-renderer/src/index.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/svg-renderer/src/index.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/svg-renderer/docs) &mdash;
-[GPLv3 License](https://github.com/repalash/threepipe/blob/master/plugins/svg-renderer/LICENSE)
+[GPLv3 License](https://github.com/jayhirpara28/threeengine/blob/master/plugins/svg-renderer/LICENSE)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugin-svg-renderer.svg)](https://www.npmjs.com/package/@threepipe/plugin-svg-renderer)
 
@@ -31,7 +31,7 @@ npm install @threepipe/plugin-svg-renderer
 This is still a WIP. API might change a bit
 :::
 
-`ThreeSVGRendererPlugin` uses [`three-svg-renderer`](https://github.com/repalash/threepipe/blob/master/plugins/svg-renderer/src/three-svg-renderer), which is a modified version of [three-svg-renderer](https://www.npmjs.com/package/three-svg-renderer) (GPLV3 Licenced).
+`ThreeSVGRendererPlugin` uses [`three-svg-renderer`](https://github.com/jayhirpara28/threeengine/blob/master/plugins/svg-renderer/src/three-svg-renderer), which is a modified version of [three-svg-renderer](https://www.npmjs.com/package/three-svg-renderer) (GPLV3 Licenced).
 The plugin renderers meshes in the viewer scene to svg objects by computing polygons and contours of the geometry in view space. Check [LokiResearch/three-svg-renderer](https://github.com/LokiResearch/three-svg-renderer?tab=readme-ov-file#references) for more details.
 In the modified version that is used here, support for some types of geometries is added and a rendered image in screen-space is used to create raster fill images for paths along with some other small changes. Check out the [Example](https://threepipe.org/examples/#three-svg-renderer-plugin/) for demo. See also [svg-geometry-playground example](https://threepipe.org/examples/#svg-geometry-playground/) for usage with other plugins `PickingPlugin`, `TransformControlsPlugin` and `GeometryGeneratorPlugin`.
 

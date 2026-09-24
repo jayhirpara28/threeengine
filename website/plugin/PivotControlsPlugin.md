@@ -13,7 +13,7 @@ aside: false
 # PivotControlsPlugin
 
 [Example](https://threepipe.org/examples/#pivot-controls-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/interaction/PivotControlsPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/interaction/PivotControlsPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/PivotControlsPlugin.html)
 
 <iframe src="https://threepipe.org/examples/pivot-controls-plugin/" style="width:100%;min-height:600px;border:none;" loading="lazy" title="Threepipe Pivot Controls Plugin Example"></iframe>

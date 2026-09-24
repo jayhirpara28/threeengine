@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#picking-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/interaction/PickingPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/interaction/PickingPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/PickingPlugin.html)
 
 Picking Plugin adds support for selecting and hovering over objects in the viewer with user interactions and selection widgets.

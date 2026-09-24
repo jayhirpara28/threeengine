@@ -2,7 +2,7 @@
 
 Integration and plugin for [threepipe](https://threepipe.org/) to use [React Three Fiber (R3F)](https://r3f.docs.pmnd.rs/getting-started/introduction)
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/r3f) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/r3f) &mdash;
 [Examples](https://threepipe.org/examples/?q=r3f#r3f-ssr-demo/) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#filmic-grain-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/postprocessing/FilmicGrainPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/postprocessing/FilmicGrainPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/FilmicGrainPlugin.html)
 
 FilmicGrainPlugin adds a post-processing material extension to the ScreenPass in render manager

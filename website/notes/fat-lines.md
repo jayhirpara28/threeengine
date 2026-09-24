@@ -55,7 +55,7 @@ ui.appendChild({
 ui.appendChild(line.uiConfig)
 ```
 
-See the [full code here](https://github.com/repalash/threepipe/blob/master/examples/fat-line-spiral/script.ts), live example on [threepipe.org/examples](https://threepipe.org/examples/fat-line-spiral/).
+See the [full code here](https://github.com/jayhirpara28/threeengine/blob/master/examples/fat-line-spiral/script.ts), live example on [threepipe.org/examples](https://threepipe.org/examples/fat-line-spiral/).
 
 ::: warning
 Fat lines (MeshLine) do not render to the gbuffer, some post-processing plugins might not work. To use lines with post-processing, use default lines.

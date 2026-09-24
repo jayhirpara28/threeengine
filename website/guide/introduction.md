@@ -39,7 +39,7 @@ Key features include:
 
 ## Examples
 
-Code samples and demos covering various usecases and test are present in the [examples](https://github.com/repalash/threepipe/tree/master/examples/) folder.
+Code samples and demos covering various usecases and test are present in the [examples](https://github.com/jayhirpara28/threeengine/tree/master/examples/) folder.
 
 Try them: https://threepipe.org/examples/
 
@@ -127,9 +127,9 @@ Additionally, plugins like `LoadingScreenPlugin`, `ProgressivePlugin`, `SSAAPlug
 Check out this sample on CodePen: [threepipe-sample](https://codepen.io/repalash/pen/GRbEONZ?editors=0010)
 
 ## License
-The core framework([src](https://github.com/repalash/threepipe/tree/master/src), [dist](https://github.com/repalash/threepipe/tree/master/dist), [examples](https://github.com/repalash/threepipe/tree/master/examples) folders) and any [plugins](https://github.com/repalash/threepipe/tree/master/plugins) without a separate license are under the Free [Apache 2.0 license](https://github.com/repalash/threepipe/tree/master/LICENSE).
+The core framework([src](https://github.com/jayhirpara28/threeengine/tree/master/src), [dist](https://github.com/jayhirpara28/threeengine/tree/master/dist), [examples](https://github.com/jayhirpara28/threeengine/tree/master/examples) folders) and any [plugins](https://github.com/jayhirpara28/threeengine/tree/master/plugins) without a separate license are under the Free [Apache 2.0 license](https://github.com/jayhirpara28/threeengine/tree/master/LICENSE).
 
-Some plugins(in the [plugins](https://github.com/repalash/threepipe/tree/master/plugins) folder) might have different licenses. Check the individual plugin documentation and the source folder/files for more details.
+Some plugins(in the [plugins](https://github.com/jayhirpara28/threeengine/tree/master/plugins) folder) might have different licenses. Check the individual plugin documentation and the source folder/files for more details.
 
 ## Status
 The project is in `beta` stage and under active development. Many features and integrations will be added but the core API will not change significantly in future releases.
@@ -140,6 +140,6 @@ Check the list of all functions, classes and types in the [API Reference Docs](h
 
 ## Contributing
 
-Contributions to ThreePipe are welcome and encouraged! Feel free to open issues and pull requests on the [GitHub repository](https://github.com/repalash/threepipe).
+Contributions to ThreePipe are welcome and encouraged! Feel free to open issues and pull requests on the [GitHub repository](https://github.com/jayhirpara28/threeengine).
 
 

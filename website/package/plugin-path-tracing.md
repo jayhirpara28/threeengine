@@ -29,7 +29,7 @@ It can be enabled or disabled, and it automatically handles rendering to the scr
 It supports progressive rendering, allowing for a smooth transition of rendered frames.
 
 [Example](https://threepipe.org/examples/#three-gpu-pathtracer/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/path-tracing/src/index.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/path-tracing/src/index.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/path-tracing/docs)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugin-path-tracing.svg)](https://www.npmjs.com/package/@threepipe/plugin-path-tracing)

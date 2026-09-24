@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#object3d-widgets-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/extras/Object3DWidgetsPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/extras/Object3DWidgetsPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/Object3DWidgetsPlugin.html)
 
 Object3DWidgetsPlugin adds support for light and camera helpers/gizmos in the viewer.

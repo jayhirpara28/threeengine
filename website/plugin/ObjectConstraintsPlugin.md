@@ -13,7 +13,7 @@ aside: false
 # ObjectConstraintsPlugin
 
 [Example](https://threepipe.org/examples/#object-constraints-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/extras/ObjectConstraintsPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/extras/ObjectConstraintsPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/ObjectConstraintsPlugin.html)
 
 <iframe src="https://threepipe.org/examples/object-constraints-plugin/" style="width:100%;min-height:600px;border:none;" loading="lazy" title="Threepipe Object Constraints Plugin Example"></iframe>
@@ -274,6 +274,6 @@ For detailed examples and advanced path constraint techniques, see:
 - [Follow Path Constraint Animation Guide](../notes/follow-path-constraint.md) - Complete tutorial with spiral paths, curves, and animation
 - [Object Constraints Example](https://threepipe.org/examples/#object-constraints-plugin/) - Interactive demo
 - [Follow Path Example](https://threepipe.org/examples/#follow-path-constraint/) - Path following demo
-- [Basic Constraints](https://github.com/repalash/threepipe/blob/master/src/plugins/extras/helpers/BasicObjectConstraints.ts) - Implementation of basic constraints, these can be extended to add more types.
+- [Basic Constraints](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/extras/helpers/BasicObjectConstraints.ts) - Implementation of basic constraints, these can be extended to add more types.
 
 The ObjectConstraintsPlugin provides a powerful foundation for creating complex, interactive 3D behaviors with natural damping, making it easy to build sophisticated animations and object relationships in your three.js applications.

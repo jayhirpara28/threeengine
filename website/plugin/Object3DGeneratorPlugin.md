@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#object3d-generator-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/extras/Object3DGeneratorPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/extras/Object3DGeneratorPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/Object3DGeneratorPlugin.html)
 
 Object3DGeneratorPlugin adds support for creating different types of lights and camera objects in the viewer.

@@ -2,7 +2,7 @@ import {setupCodePreview} from 'https://cdn.jsdelivr.net/gh/repalash/example-cod
 
 const rootPath = 'https://threepipe.org/'
 const examplePath = 'examples/'
-const codePath = 'https://github.com/repalash/threepipe/tree/master/'
+const codePath = 'https://github.com/jayhirpara28/threeengine/tree/master/'
 
 const exampleScript = document.getElementById('example-script')
 const scripts = exampleScript && exampleScript.dataset.scripts ? exampleScript.dataset.scripts.split(';') : []

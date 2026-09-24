@@ -2,7 +2,7 @@
 
 Plugins and UI for [threepipe](https://threepipe.org/) to create, edit and play timeline-based animations.
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/timeline-ui) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/timeline-ui) &mdash;
 [Examples](https://threepipe.org/examples/?q=anim#timeline-ui-plugin/) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

@@ -12,7 +12,7 @@ aside: false
 
 # ACameraControlsPlugin
 
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/base/ACameraControlsPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/base/ACameraControlsPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/ACameraControlsPlugin.html)
 
 Abstract base plugin for registering custom camera controls. Subclasses provide a controls constructor and a unique key. When the plugin is added to the viewer, the controls mode becomes available on the camera. Users activate it by setting `camera.controlsMode` to the key.

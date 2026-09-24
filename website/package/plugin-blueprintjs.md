@@ -15,7 +15,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#blueprintjs-ui-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/blueprintjs/src/BlueprintJsUiPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/blueprintjs/src/BlueprintJsUiPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/blueprintjs/docs/classes/BlueprintJsUiPlugin.html)
 
 

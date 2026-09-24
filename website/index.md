@@ -39,7 +39,7 @@ features:
     link: ./guide/features
   - title: Free and Open Source
     details: Threepipe is completely free and open source under the Apache license 2.0. You can use it for personal or commercial projects without any restrictions, with attribution.
-    link: https://github.com/repalash/threepipe/blob/master/LICENSE
+    link: https://github.com/jayhirpara28/threeengine/blob/master/LICENSE
     rel: external
     target: _blank
     linkText: Apache License 2.0
@@ -65,7 +65,7 @@ features:
     link: ./guide/getting-started
   - title: TypeScript, Autocomplete
     details: Written in TypeScript with full type definitions and autocomplete support in modern IDEs. 
-    link: https://github.com/repalash/threepipe
+    link: https://github.com/jayhirpara28/threeengine
     linkText: Read the source
   - title: Serialization
     details: Automatic serialization of all viewer and plugin settings in GLB(with custom extensions) and JSON formats.

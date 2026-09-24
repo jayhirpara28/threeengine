@@ -85,7 +85,7 @@ export class OrbitControlsWithUi extends OrbitControls implements IUiConfigConta
 ```
 
 Check out the full source code:
-[./src/three/controls/OrbitControls3.ts](https://github.com/repalash/threepipe/blob/master/src/three/controls/OrbitControls3.ts) for proper implementation
+[./src/three/controls/OrbitControls3.ts](https://github.com/jayhirpara28/threeengine/blob/master/src/three/controls/OrbitControls3.ts) for proper implementation
 
 See it in action: https://threepipe.org/examples/#camera-uiconfig/ Open the Camera UI and click on the Orbit Controls panel.
 

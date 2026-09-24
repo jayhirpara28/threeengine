@@ -20,7 +20,7 @@ All notable changes to this plugin will be documented in this file.
 
 ### Changed
 
-- Update [threepipe](https://threepipe.org/) in `peerDependencies` to [0.1.0](https://github.com/repalash/threepipe/releases/tag/v0.1.0)
+- Update [threepipe](https://threepipe.org/) in `peerDependencies` to [0.1.0](https://github.com/jayhirpara28/threeengine/releases/tag/v0.1.0)
 
 ## [0.1.0] - 2025-08-31
 
@@ -28,8 +28,8 @@ All notable changes to this plugin will be documented in this file.
 
 - First Release.
 
-[unreleased]: https://github.com/repalash/threepipe/tree/dev/plugins/troika-text
-[0.1.0]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-troika-text-0.1.0
-[0.1.1]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-troika-text-0.1.1
-[0.1.2]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-troika-text-0.1.2
-[0.1.3]: https://github.com/repalash/threepipe/releases/tag/@threepipe/plugin-troika-text-0.1.3
+[unreleased]: https://github.com/jayhirpara28/threeengine/tree/dev/plugins/troika-text
+[0.1.0]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-troika-text-0.1.0
+[0.1.1]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-troika-text-0.1.1
+[0.1.2]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-troika-text-0.1.2
+[0.1.3]: https://github.com/jayhirpara28/threeengine/releases/tag/@threepipe/plugin-troika-text-0.1.3

@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#three-first-person-controls-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/interaction/ThreeFirstPersonControlsPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/interaction/ThreeFirstPersonControlsPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/ThreeFirstPersonControlsPlugin.html)
 
 ThreeFirstPersonControlsPlugin adds support for using FirstPersonControls from three.js. It works similar to idle look around in first person games, it does not capture the mouse pointer.

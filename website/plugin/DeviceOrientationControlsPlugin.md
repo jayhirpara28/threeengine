@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#device-orientation-controls-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/interaction/DeviceOrientationControlsPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/interaction/DeviceOrientationControlsPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/DeviceOrientationControlsPlugin.html)
 
 DeviceOrientationControlsPlugin enables controlling the main camera rotation in the scene with device orientation. This only works on devices which have a gyroscope(but can also be emulated in devtools in chrome).

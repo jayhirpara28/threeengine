@@ -2,7 +2,7 @@
 
 Integration and plugin for [threepipe](https://threepipe.org/) to transform and optimize glTF assets using [gltf-transform](https://gltf-transform.dev/).
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/gltf-transform) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/gltf-transform) &mdash;
 [Examples](https://threepipe.org/examples/?q=glb#glb-draco-export/) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

@@ -15,7 +15,7 @@ aside: false
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#asset-exporter-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/export/AssetExporterPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/export/AssetExporterPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/AssetExporterPlugin.html)
 
 <iframe src="https://threepipe.org/examples/asset-exporter-plugin/" style="width:100%;height:600px;border:none;" loading="lazy" title="Threepipe Asset Exporter Plugin Example"></iframe>

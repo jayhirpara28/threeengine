@@ -15,7 +15,7 @@ aside: false
 [React Three Fiber](https://r3f.docs.pmnd.rs/) integration plugin for ThreePipe
 
 [Example](https://threepipe.org/examples/#r3f-jsx-sample/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/r3f/src/index.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/r3f/src/index.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/r3f/docs/)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugin-r3f.svg)](https://www.npmjs.com/package/@threepipe/plugin-r3f)
@@ -32,7 +32,7 @@ The plugin has been tested with React 19+ and React Three Fiber 9+.
 
 It is a work in progress and may not cover all R3F features. Contributions and feedback are welcome!
 
-Create issues or pull requests on the [GitHub repository](https://github.com/repalash/threepipe).
+Create issues or pull requests on the [GitHub repository](https://github.com/jayhirpara28/threeengine).
 
 :::
 

@@ -13,7 +13,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#tweakpane-ui-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/tweakpane/src/TweakpaneUiPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/tweakpane/src/TweakpaneUiPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/tweakpane/docs/classes/TweakpaneUiPlugin.html)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugin-tweakpane.svg)](https://www.npmjs.com/package/@threepipe/plugin-tweakpane)

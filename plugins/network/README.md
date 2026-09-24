@@ -2,7 +2,7 @@
 
 Network related plugins for [threepipe](https://threepipe.org/).
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/network) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/network) &mdash;
 [Examples](https://threepipe.org/examples/?q=trans#transfr-share-plugin/) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

@@ -19,7 +19,7 @@ All geometry generators except text have moved to core `threepipe` as [GeometryG
 Exports the text geometry generator and `GeometryGeneratorExtrasPlugin` to extend the core [GeometryGeneratorPlugin](../plugin/GeometryGeneratorPlugin) with 3D text support.
 
 [Example](https://threepipe.org/examples/#geometry-generator-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/geometry-generator/src/index.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/geometry-generator/src/index.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/geometry-generator/docs)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugin-geometry-generator.svg)](https://www.npmjs.com/package/@threepipe/plugin-geometry-generator)

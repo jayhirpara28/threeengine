@@ -15,7 +15,7 @@ aside: false
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#frame-fade-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/pipeline/FrameFadePlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/pipeline/FrameFadePlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/FrameFadePlugin.html)
 
 <iframe src="https://threepipe.org/examples/frame-fade-plugin/" style="width:100%;min-height:600px;border:none;" loading="lazy" title="Threepipe Frame Fade Plugin Example"></iframe>

@@ -14,7 +14,7 @@ next:
 This package exports [AssimpJsPlugin](https://threepipe.org/plugins/assimpjs/docs/classes/AssimpJsPlugin.html) which loads the assimpjs library and provides `ajs` interface.
 
 [Example](https://threepipe.org/examples/#assimpjs-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/assimpjs/src/index.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/assimpjs/src/index.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/assimpjs/docs)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugin-assimpjs.svg)](https://www.npmjs.com/package/@threepipe/plugin-assimpjs)

@@ -15,7 +15,7 @@ aside: false
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#custom-bump-map-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/material/CustomBumpMapPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/material/CustomBumpMapPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/CustomBumpMapPlugin.html)
 
 <iframe src="https://threepipe.org/examples/custom-bump-map-plugin/" style="width:100%;height:600px;border:none;" loading="lazy" title="Threepipe Custom Bump Map Plugin Example"></iframe>

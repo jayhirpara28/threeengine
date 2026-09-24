@@ -13,7 +13,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#progressive-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/pipeline/ProgressivePlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/pipeline/ProgressivePlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/ProgressivePlugin.html)
 
 Progressive Plugin adds a post-render pass to blend the last frame with the current frame.

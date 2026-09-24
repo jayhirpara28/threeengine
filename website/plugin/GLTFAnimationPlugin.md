@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#gltf-animation-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/animation/GLTFAnimationPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/animation/GLTFAnimationPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/GLTFAnimationPlugin.html)
 
 Manages playback of GLTF animations.

@@ -38,7 +38,7 @@ async function init() {
         return
     }
 
-    // Check the source of SampleBodyComponent - https://github.com/repalash/threepipe/blob/dev/src/plugins/extras/components/SampleBodyComponent.ts#L10
+    // Check the source of SampleBodyComponent - https://github.com/jayhirpara28/threeengine/blob/dev/src/plugins/extras/components/SampleBodyComponent.ts#L10
     const ecs = viewer.getPlugin(EntityComponentPlugin)!
     ecs.componentTypes.set(SampleBodyComponent.ComponentType, SampleBodyComponent)
     ecs.componentTypes.set(MoveInCircleComponent.ComponentType, MoveInCircleComponent)

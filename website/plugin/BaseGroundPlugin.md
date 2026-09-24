@@ -13,7 +13,7 @@ aside: false
 # BaseGroundPlugin
 
 [Example](https://threepipe.org/examples/#base-ground-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/base/BaseGroundPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/base/BaseGroundPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/BaseGroundPlugin.html)
 
 <iframe src="https://threepipe.org/examples/base-ground-plugin/" style="width:100%;min-height:600px;border:none;" loading="lazy" title="Threepipe Base Ground Plugin Example"></iframe>

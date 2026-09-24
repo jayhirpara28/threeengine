@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#loading-screen-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/interaction/LoadingScreenPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/interaction/LoadingScreenPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/LoadingScreenPlugin.html)
 
 Loading Screen Plugin adds configurable overlay with a logo, loading text, spinner and the list of loading items. It also provides options to minimize and maximize the loading popup when there is no objects in the scene.

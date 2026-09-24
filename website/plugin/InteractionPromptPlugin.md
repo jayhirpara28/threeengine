@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#interaction-prompt-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/interaction/InteractionPromptPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/interaction/InteractionPromptPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/InteractionPromptPlugin.html)
 
 Interaction Prompt Plugin adds a hand pointer icon over the canvas that moves to prompt the user to interact with the 3d scene. To use, simply add the plugin to the viewer.

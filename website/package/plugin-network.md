@@ -26,7 +26,7 @@ npm install @threepipe/plugin-network
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#transfr-share-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/network/src/TransfrSharePlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/network/src/TransfrSharePlugin.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/network/docs/classes/TransfrSharePlugin.html)
 
 TransfrSharePlugin provides functionality to export and upload the scene or an object as glb and provide link to share/preview/edit the files.
@@ -81,7 +81,7 @@ await sharePlugin.shareViewerLink()
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#aws-client-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/network/src/AWSClientPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/network/src/AWSClientPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/network/docs/classes/AWSClientPlugin.html)
 
 Provides `fetch` function that performs a fetch request with AWS v4 signing.

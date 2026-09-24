@@ -2,7 +2,7 @@
 
 Integration and plugin for [threepipe](https://threepipe.org/) to use [Blueprint.js](https://blueprintjs.com/) components with [uiconfig](https://github.com/repalash/uiconfig.js).
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/blueprintjs) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/blueprintjs) &mdash;
 [Examples](https://threepipe.org/examples/?q=blueprint#blueprintjs-ui-plugin/) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

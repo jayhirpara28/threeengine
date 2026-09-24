@@ -2,7 +2,7 @@
 
 Additional importers for [threepipe](https://threepipe.org/) to handle various 3D file formats.
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/extra-importers) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/extra-importers) &mdash;
 [Examples](https://threepipe.org/examples/?q=extra#extra-importer-plugins/) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

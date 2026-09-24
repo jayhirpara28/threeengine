@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#dropzone-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/interaction/DropzonePlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/interaction/DropzonePlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/DropzonePlugin.html)
 
 DropzonePlugin adds support for drag and drop of local files to automatically import, process and load them into the viewer.

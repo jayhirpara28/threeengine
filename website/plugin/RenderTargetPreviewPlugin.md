@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#render-target-preview/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/ui/RenderTargetPreviewPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/ui/RenderTargetPreviewPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/RenderTargetPreviewPlugin.html)
 
 RenderTargetPreviewPlugin is a useful development and debugging plugin that renders any registered render-target to the screen in small collapsable panels.

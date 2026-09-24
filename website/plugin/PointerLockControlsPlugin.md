@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#pointer-lock-controls-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/interaction/PointerLockControlsPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/interaction/PointerLockControlsPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/PointerLockControlsPlugin.html)
 
 PointerLockControlsPlugin adds support for using PointerLockControls from three.js. It works similar to controls in first-person shooter, captures the mouse pointer and uses it to look around with the camera.

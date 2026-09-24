@@ -15,7 +15,7 @@ aside: false
 A timeline UI component and panel for Threepipe Viewer and Editor to preview and edit global timeline for viewer animations and plugins.
 
 [Example](https://threepipe.org/examples/#timeline-ui-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/timeline-ui/src/TimelineUiPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/timeline-ui/src/TimelineUiPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/timeline-ui/docs/classes/TimelineUiPlugin.html)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugin-timeline-ui.svg)](https://www.npmjs.com/package/@threepipe/plugin-timeline-ui)

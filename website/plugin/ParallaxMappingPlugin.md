@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#parallax-mapping-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/material/ParallaxMappingPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/material/ParallaxMappingPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/ParallaxMappingPlugin.html)
 
 `ParallaxMappingPlugin` adds a material extension to PhysicalMaterial to add support for [parallax relief mapping](https://en.wikipedia.org/wiki/Relief_mapping_(computer_graphics)). The idea is to walk along a ray that has entered the `bumpMap`'s volume, finding the intersection point of the ray with the `bumpMap`. [Steep parallax mapping](https://en.wikipedia.org/wiki/Parallax_mapping) and [parallax occlusion mapping](https://en.wikipedia.org/wiki/Parallax_occlusion_mapping) are other common names for these techniques.

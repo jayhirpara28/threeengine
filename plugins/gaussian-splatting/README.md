@@ -2,7 +2,7 @@
 
 Plugins for [threepipe](https://threepipe.org/) to render Gaussian splatting effects.
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/gaussian-splatting) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/gaussian-splatting) &mdash;
 [Examples](https://threepipe.org/examples/?q=splat#splat-load/) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

@@ -2,7 +2,7 @@
 
 Integration and plugin for [threepipe](https://threepipe.org/) to render 3D text using [troika-three-text](https://github.com/protectwise/troika/tree/main/packages/troika-three-text)
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/troika-text) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/troika-text) &mdash;
 [Examples](https://threepipe.org/examples/?q=text#troika-text-plugin) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

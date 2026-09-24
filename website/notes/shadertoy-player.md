@@ -444,7 +444,7 @@ Since the material is added as the `screenShader`, it is rendered in `ScreenPass
 Output of these can be used to in the shader toy shader to blend the 3d scene with a custom shadertoy effect.
 
 This can be done by defining and accessing the `tDiffuse` and `tTransparent` uniforms in the material and shader code.
-Check out the [ScreenPass.glsl](https://github.com/repalash/threepipe/blob/master/src/postprocessing/ScreenPass.glsl) for a sample of how to access these textures in the shader code, as well as interfacing with the gbuffer.
+Check out the [ScreenPass.glsl](https://github.com/jayhirpara28/threeengine/blob/master/src/postprocessing/ScreenPass.glsl) for a sample of how to access these textures in the shader code, as well as interfacing with the gbuffer.
 
 Check the [Screen Pass guide](./../guide/screen-pass) for more details and an example.
 
@@ -462,5 +462,5 @@ Check the [Screen Pass guide](./../guide/screen-pass) for more details and an ex
 
 This setup provides a complete ShaderToy player that can run most ShaderToy shaders with proper time, mouse, and resolution handling, plus interactive controls for experimentation.
 
-Check out the [live example](https://threepipe.org/examples/shadertoy-player/) to see it in action along with the source code on [GitHub](https://github.com/repalash/threepipe/tree/master/examples/shadertoy-player/script.ts).
+Check out the [live example](https://threepipe.org/examples/shadertoy-player/) to see it in action along with the source code on [GitHub](https://github.com/jayhirpara28/threeengine/tree/master/examples/shadertoy-player/script.ts).
 

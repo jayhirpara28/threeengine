@@ -11,7 +11,7 @@ aside: false
 
 # @threepipe Packages
 
-Additional packages and plugins are available with threepipe, and can be found in the [plugins](https://github.com/repalash/threepipe/tree/master/plugins) directory or in some external repository.
+Additional packages and plugins are available with threepipe, and can be found in the [plugins](https://github.com/jayhirpara28/threeengine/tree/master/plugins) directory or in some external repository.
 
 These add support for integrating with other libraries, adding new features, and other functionality with different licenses.
 

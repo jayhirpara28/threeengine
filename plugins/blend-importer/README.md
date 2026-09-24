@@ -2,7 +2,7 @@
 
 Integration and plugin for [threepipe](https://threepipe.org/) to import and render Blender(BLEND) files (fork of [js.blend](https://github.com/acweathersby/js.blend))
 
-[Github](https://github.com/repalash/threepipe/tree/dev/plugins/blend-importer) &mdash;
+[Github](https://github.com/jayhirpara28/threeengine/tree/dev/plugins/blend-importer) &mdash;
 [Examples](https://threepipe.org/examples/?q=blend#blend-load/) &mdash;
 [API Reference](https://threepipe.org/docs/)
 

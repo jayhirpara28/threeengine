@@ -12,7 +12,7 @@ next:
 # TailwindCSSCDNPlugin
 
 [Example](https://threepipe.org/examples/#tailwind-css-cdn-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/extras/TailwindCSSCDNPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/extras/TailwindCSSCDNPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/TailwindCSSCDNPlugin.html)
 
 TailwindCSSCDNPlugin dynamically loads Tailwind CSS from a CDN to enable rapid UI development with utility classes directly in your Threepipe application.

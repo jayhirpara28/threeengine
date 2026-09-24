@@ -39,7 +39,7 @@
             tonemap: true,
             screenShader: new ExtendedShaderMaterial({
                 ...CopyShader,
-                // Custom fragment shader. Note that this is not the default full shader, it needs to handle gbuffer, transparent target etc as well, checkout the full default shader - https://github.com/repalash/threepipe/blob/master/src/postprocessing/ScreenPass.glsl
+                // Custom fragment shader. Note that this is not the default full shader, it needs to handle gbuffer, transparent target etc as well, checkout the full default shader - https://github.com/jayhirpara28/threeengine/blob/master/src/postprocessing/ScreenPass.glsl
                 fragmentShader: `
 #include <packing>
 

@@ -231,7 +231,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/repalash/threepipe' },
+      { icon: 'github', link: 'https://github.com/jayhirpara28/threeengine' },
       { icon: 'twitter', link: 'https://twitter.com/repalash' }
     ],
 

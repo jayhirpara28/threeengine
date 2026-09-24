@@ -12,7 +12,7 @@ next:
 # USDZLoadPlugin
 
 [Example](https://threepipe.org/examples/#usdz-load/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/import/USDZLoadPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/import/USDZLoadPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/USDZLoadPlugin.html)
 
 Adds support for loading .usdz and .usda ([Universal Scene Description](https://graphics.pixar.com/usd/docs/index.html)) files.

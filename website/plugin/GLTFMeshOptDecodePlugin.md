@@ -12,7 +12,7 @@ next:
 # GLTFMeshOptDecodePlugin
 
 [Example](https://threepipe.org/examples/#gltf-meshopt-compression/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/import/GLTFMeshOptDecodePlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/import/GLTFMeshOptDecodePlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/GLTFMeshOptDecodePlugin.html)
 
 Loads the MeshOpt Decoder module from [meshoptimizer](https://github.com/zeux/meshoptimizer) library at runtime from a customisable cdn url.

@@ -12,7 +12,7 @@ aside: false
 
 # BaseImporterPlugin
 
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/base/BaseImporterPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/base/BaseImporterPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/BaseImporterPlugin.html)
 
 Abstract base plugin for file importers. Subclasses provide an `Importer` instance that defines the supported file extensions, MIME types, and loader class. When the plugin is added to the viewer, the importer is registered with the `AssetManager`'s import pipeline. When removed, it is unregistered.

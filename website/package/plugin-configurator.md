@@ -26,7 +26,7 @@ npm install @threepipe/plugin-configurator
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#material-configurator-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/configurator/src/MaterialConfiguratorPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/configurator/src/MaterialConfiguratorPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/configurator/docs/classes/MaterialConfiguratorPlugin.html)
 
 MaterialConfiguratorPlugin adds a UI to configure and switch between different material variations.
@@ -50,7 +50,7 @@ To create a custom configurator UI, use the `MaterialConfiguratorBasePlugin` dir
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#switch-node-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/configurator/src/SwitchNodePlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/configurator/src/SwitchNodePlugin.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/configurator/docs/classes/SwitchNodePlugin.html)
 
 SwitchNodePlugin adds a UI to configure and switch between different object variations within a switch node object.

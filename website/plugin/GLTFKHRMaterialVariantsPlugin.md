@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#gltf-khr-material-variants-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/extras/GLTFKHRMaterialVariantsPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/extras/GLTFKHRMaterialVariantsPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/GLTFKHRMaterialVariantsPlugin.html)
 
 GLTFKHRMaterialVariantsPlugin adds support for importing and exporting glTF models with the `KHR_materials_variants` extension to load the model with different material variants/combinations. It also provides API and UI to change the current material variant.

@@ -67,12 +67,12 @@
         "vector-graphics"
     ],
     "bugs": {
-        "url": "https://github.com/repalash/threepipe/issues"
+        "url": "https://github.com/jayhirpara28/threeengine/issues"
     },
-    "homepage": "https://github.com/repalash/threepipe#readme",
+    "homepage": "https://github.com/jayhirpara28/threeengine#readme",
     "repository": {
         "type": "git",
-        "url": "git://github.com/repalash/threepipe.git",
+        "url": "git://github.com/jayhirpara28/threeengine.git",
         "directory": "plugins/svg-renderer"
     }
 }

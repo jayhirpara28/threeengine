@@ -12,7 +12,7 @@ next:
 # KTX2LoadPlugin
 
 [Example](https://threepipe.org/examples/#ktx2-load/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/import/KTX2LoadPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/import/KTX2LoadPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/KTX2LoadPlugin.html)
 
 Adds support for loading `.ktx2` [Khronos Texture](https://www.khronos.org/opengles/sdk/tools/KTX/file_format_spec/) files with asset manager and embedded in glTF files.

@@ -12,7 +12,7 @@ next:
 # STLLoadPlugin
 
 [Example](https://threepipe.org/examples/#stl-load/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/import/STLLoadPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/import/STLLoadPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/STLLoadPlugin.html)
 
 Adds support for loading .stl ([Stereolithography](https://en.wikipedia.org/wiki/STL_(file_format))) files.

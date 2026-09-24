@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#fragment-clipping-extension-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/material/FragmentClippingExtensionPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/material/FragmentClippingExtensionPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/FragmentClippingExtensionPlugin.html)
 
 FragmentClippingExtensionPlugin adds a material extension to PhysicalMaterial to add support for fragment clipping.

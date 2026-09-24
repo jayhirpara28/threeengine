@@ -18,7 +18,7 @@ The Screen Pass renders the final scene by processing the diffuse and transparen
 - Material extensions for complex modifications
 - Built-in features like tonemapping, background clipping, and transparency handling
 
-Check out the [ScreenPass.glsl](https://github.com/repalash/threepipe/blob/master/src/postprocessing/ScreenPass.glsl) for the default fragment shader code used in the screen pass.
+Check out the [ScreenPass.glsl](https://github.com/jayhirpara28/threeengine/blob/master/src/postprocessing/ScreenPass.glsl) for the default fragment shader code used in the screen pass.
 
 Let's explore how to customize the screen pass using different methods to achieve a color tint effect as an example.
 

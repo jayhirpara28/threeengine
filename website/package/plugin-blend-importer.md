@@ -23,7 +23,7 @@ Currently working: `Mesh`, `BufferGeometry` and basic `PointLight`.
 To be added: `PhysicalMaterial`, `UnlitMaterial` (similar to blender-gltf-io plugin)
 
 [Example](https://threepipe.org/examples/#blend-load/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/blend-importer/src/index.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/blend-importer/src/index.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/blend-importer/docs)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugin-blend-importer.svg)](https://www.npmjs.com/package/@threepipe/plugin-blend-importer)

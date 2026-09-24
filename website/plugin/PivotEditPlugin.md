@@ -13,7 +13,7 @@ aside: false
 # PivotEditPlugin
 
 [Example](https://threepipe.org/examples/#pivot-edit-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/interaction/PivotEditPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/interaction/PivotEditPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/PivotEditPlugin.html)
 
 <iframe src="https://threepipe.org/examples/pivot-edit-plugin/" style="width:100%;min-height:600px;border:none;" loading="lazy" title="Threepipe Pivot Edit Plugin Example"></iframe>

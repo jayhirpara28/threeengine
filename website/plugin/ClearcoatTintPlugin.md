@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#clearcoat-tint-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/material/ClearcoatTintPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/material/ClearcoatTintPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/ClearcoatTintPlugin.html)
 
 <iframe src="https://threepipe.org/examples/clearcoat-tint-plugin/" style="width:100%;min-height:600px;border:none;" loading="lazy" title="Threepipe Bloom Plugin Example"></iframe>

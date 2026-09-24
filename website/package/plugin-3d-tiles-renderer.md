@@ -25,7 +25,7 @@ Exports
 This package acts as an interface to the [`3d-tiles-renderer`](https://github.com/NASA-AMMOS/3DTilesRendererJS) package.
 
 [Example](https://threepipe.org/examples/#3d-tiles-renderer/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/plugins/3d-tiles-renderer/src/index.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/plugins/3d-tiles-renderer/src/index.ts) &mdash;
 [API Reference](https://threepipe.org/plugins/3d-tiles-renderer/docs)
 
 [![NPM Package](https://img.shields.io/npm/v/@threepipe/plugin-3d-tiles-renderer.svg)](https://www.npmjs.com/package/@threepipe/plugin-3d-tiles-renderer)

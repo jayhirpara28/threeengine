@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#fullscreen-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/interaction/FullScreenPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/interaction/FullScreenPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/FullScreenPlugin.html)
 
 A simple plugin that provides functions to enter, exit and toggle full screen mode and check if the viewer is in full screen mode. Either the canvas or the whole container can be set to full screen.

@@ -28,7 +28,7 @@ next:
 
 ## ThreeViewer
 
-Source Code: [src/viewer/ThreeViewer.ts](https://github.com/repalash/threepipe/blob/master/src/viewer/ThreeViewer.ts)
+Source Code: [src/viewer/ThreeViewer.ts](https://github.com/jayhirpara28/threeengine/blob/master/src/viewer/ThreeViewer.ts)
 
 API Reference: [ThreeViewer](https://threepipe.org/docs/classes/ThreeViewer.html)
 
@@ -352,7 +352,7 @@ await viewer.fitToView([obj1, obj2], 1.5, 1000, 'easeInOutSine')
 
 ## RenderManager
 
-Source Code: [src/viewer/ViewerRenderManager.ts](https://github.com/repalash/threepipe/blob/master/src/viewer/ViewerRenderManager.ts), [src/rendering/RenderManager.ts](https://github.com/repalash/threepipe/blob/master/src/rendering/RenderManager.ts), [src/rendering/RenderTargetManager.ts](.https://github.com/repalash/threepipe/blob/master/src/rendering/RenderTargetManager.ts)
+Source Code: [src/viewer/ViewerRenderManager.ts](https://github.com/jayhirpara28/threeengine/blob/master/src/viewer/ViewerRenderManager.ts), [src/rendering/RenderManager.ts](https://github.com/jayhirpara28/threeengine/blob/master/src/rendering/RenderManager.ts), [src/rendering/RenderTargetManager.ts](.https://github.com/jayhirpara28/threeengine/blob/master/src/rendering/RenderTargetManager.ts)
 
 API Reference: [ViewerRenderManager](https://threepipe.org/docs/classes/ViewerRenderManager.html), [RenderManager](https://threepipe.org/docs/classes/RenderManager.html), [RenderTargetManager](https://threepipe.org/docs/classes/RenderTargetManager.html)
 
@@ -517,7 +517,7 @@ const buffer = renderManager.renderTargetToBuffer(renderTarget)
 
 ## RootScene
 
-Source Code: [src/core/object/RootScene.ts](https://github.com/repalash/threepipe/blob/master/src/core/object/RootScene.ts)
+Source Code: [src/core/object/RootScene.ts](https://github.com/jayhirpara28/threeengine/blob/master/src/core/object/RootScene.ts)
 
 API Reference: [RootScene](https://threepipe.org/docs/classes/RootScene.html)
 
@@ -693,7 +693,7 @@ Check [IObject3DEventTypes](https://threepipe.org/docs/interfaces/IObject3DEvent
 
 ## ICamera
 
-Source Code: [src/core/camera/PerspectiveCamera2.ts](https://github.com/repalash/threepipe/blob/master/src/core/camera/PerspectiveCamera2.ts), [src/core/ICamera.ts](https://github.com/repalash/threepipe/blob/master/src/core/ICamera.ts), [src/core/camera/OrthographicCamera2.ts](https://github.com/repalash/threepipe/blob/master/src/core/camera/OrthographicCamera2.ts)
+Source Code: [src/core/camera/PerspectiveCamera2.ts](https://github.com/jayhirpara28/threeengine/blob/master/src/core/camera/PerspectiveCamera2.ts), [src/core/ICamera.ts](https://github.com/jayhirpara28/threeengine/blob/master/src/core/ICamera.ts), [src/core/camera/OrthographicCamera2.ts](https://github.com/jayhirpara28/threeengine/blob/master/src/core/camera/OrthographicCamera2.ts)
 
 API Reference: [PerspectiveCamera2](https://threepipe.org/docs/classes/PerspectiveCamera2.html), [ICamera](https://threepipe.org/docs/interfaces/ICamera.html), [OrthographicCamera2](https://threepipe.org/docs/classes/OrthographicCamera2.html)
 
@@ -848,7 +848,7 @@ viewer.scene.mainCamera.fov = 1
 
 ## AssetManager
 
-Source Code: [src/assetmanager/AssetManager.ts](https://github.com/repalash/threepipe/blob/master/src/assetmanager/AssetManager.ts)
+Source Code: [src/assetmanager/AssetManager.ts](https://github.com/jayhirpara28/threeengine/blob/master/src/assetmanager/AssetManager.ts)
 
 API Reference: [AssetManager](https://threepipe.org/docs/classes/AssetManager.html)
 

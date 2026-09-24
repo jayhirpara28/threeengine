@@ -14,7 +14,7 @@ next:
 [//]: # (todo: image)
 
 [Example](https://threepipe.org/examples/#geometry-generator-plugin/) &mdash;
-[Source Code](https://github.com/repalash/threepipe/blob/master/src/plugins/geometry/GeometryGeneratorPlugin.ts) &mdash;
+[Source Code](https://github.com/jayhirpara28/threeengine/blob/master/src/plugins/geometry/GeometryGeneratorPlugin.ts) &mdash;
 [API Reference](https://threepipe.org/docs/classes/GeometryGeneratorPlugin.html)
 
 GeometryGeneratorPlugin creates updatable parametric objects and geometries. It includes built-in generators for several primitive types from three.js and automatically registers them with [Object3DGeneratorPlugin](./Object3DGeneratorPlugin) when both plugins are active.
